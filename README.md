@@ -63,7 +63,7 @@ Pick one of the blogs you've implemented from `part 1`.
 
 ## Part 3: Partials It Up
 
-Go back through your application and separate a lot of your views into partials. 
+Go back through your application and separate a lot of your views into partials.
 
 ## Part 4: Seeding Your Application
 
@@ -99,5 +99,5 @@ Users may want to upload images
 * [rake task](http://railscasts.com/episodes/66-custom-rake-tasks)
 * [bower rails](https://rails-assets.org/)
 
-
+=======
 
