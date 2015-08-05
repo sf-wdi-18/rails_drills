@@ -72,7 +72,7 @@ Add `ffaker` to your Gemfile and use it in your `db/seeds.rb` file to create fak
 See the following [seed file](https://github.com/sf-wdi-15/rails_testing/blob/master/db/seeds.rb) for guidance. Find a blogs like [this](http://ricostacruz.com/cheatsheets/ffaker.html).
 
 
-## Part 4: Adding Alchemy
+## Part 5: Adding Alchemy
 
 You need to add an `API`. You've already registered for the Alchemy API, so it's a perfect choice to integrate into this application.
 
@@ -88,7 +88,7 @@ You need to add an `API`. You've already registered for the Alchemy API, so it's
 * Alter your `get_keywords` method to save each keyword as an associated `tag`. If an `article` already has `tags` it should not make a request to Alchemy's API.
 
 
-## Part 5: Research
+## Part 6: Research
 
 Users may want to upload images
 
